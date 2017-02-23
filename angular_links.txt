@@ -1,0 +1,3 @@
+http://www.baeldung.com/rest-with-spring-course
+https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.jkdnnjs1g
+https://dzone.com/articles/angularjs-tutorial-getting
